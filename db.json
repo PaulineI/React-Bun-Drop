@@ -1,0 +1,286 @@
+{
+  "orders": [
+    {
+      "id": "05981201600955033",
+      "items": [
+        {
+          "id": "2",
+          "title": "Is it burned? Burger",
+          "price": 8.99,
+          "description": "A classic but with a black bun.",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-2.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "title": "The safe card Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with heavenly dressing",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-3.png",
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "title": "Classic Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with lettuce, tomato, and cheese.",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-1.png",
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "title": "Sesame Street Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with sesame seed bun",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-4.png",
+          "quantity": 1
+        },
+        {
+          "id": "5",
+          "title": "The juicy cheese Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with cheese, cheese and cheese.",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-5.png",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "5110425945642092",
+      "items": [
+        {
+          "id": "2",
+          "title": "Is it burned? Burger",
+          "price": 8.99,
+          "description": "A classic but with a black bun.",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-2.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "title": "The safe card Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with heavenly dressing",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-3.png",
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "title": "Classic Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with lettuce, tomato, and cheese.",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-1.png",
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "title": "Sesame Street Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with sesame seed bun",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-4.png",
+          "quantity": 1
+        },
+        {
+          "id": "5",
+          "title": "The juicy cheese Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with cheese, cheese and cheese.",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-5.png",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "3313971513181435",
+      "items": [
+        {
+          "id": "2",
+          "title": "Is it burned? Burger",
+          "price": 8.99,
+          "description": "A classic but with a black bun.",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-2.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "title": "The safe card Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with heavenly dressing",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-3.png",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "7231789585021746",
+      "items": [
+        {
+          "id": "5",
+          "title": "The juicy cheese Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with cheese, cheese and cheese.",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-5.png",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "5929950000619515",
+      "items": [
+        {
+          "id": "2",
+          "title": "Is it burned? Burger",
+          "price": 8.99,
+          "description": "A classic but with a black bun.",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-2.png",
+          "quantity": 4
+        },
+        {
+          "id": "3",
+          "title": "The safe card Burger",
+          "price": 8.99,
+          "description": "A classic beef burger with heavenly dressing",
+          "category": "burgers",
+          "image": "/src/assets/images/burger-3.png",
+          "quantity": 3
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "id": "1",
+      "title": "Classic Burger",
+      "price": 8.99,
+      "description": "A classic beef burger with lettuce, tomato, and cheese.",
+      "category": "burgers",
+      "image": "/src/assets/images/burger-1.png"
+    },
+    {
+      "id": "2",
+      "title": "Is it burned? Burger",
+      "price": 8.99,
+      "description": "A classic but with a black bun.",
+      "category": "burgers",
+      "image": "/src/assets/images/burger-2.png"
+    },
+    {
+      "id": "3",
+      "title": "The safe card Burger",
+      "price": 8.99,
+      "description": "A classic beef burger with heavenly dressing",
+      "category": "burgers",
+      "image": "/src/assets/images/burger-3.png"
+    },
+    {
+      "id": "4",
+      "title": "Sesame Street Burger",
+      "price": 8.99,
+      "description": "A classic beef burger with sesame seed bun",
+      "category": "burgers",
+      "image": "/src/assets/images/burger-4.png"
+    },
+    {
+      "id": "5",
+      "title": "The juicy cheese Burger",
+      "price": 8.99,
+      "description": "A classic beef burger with cheese, cheese and cheese.",
+      "category": "burgers",
+      "image": "/src/assets/images/burger-5.png"
+    },
+    {
+      "id": "6",
+      "title": "Sweet Potato Fries",
+      "price": 4.99,
+      "description": "Crispy sweet potato fries topped with fresh parsley.",
+      "category": "sides",
+      "image": "/src/assets/images/fries-2.png"
+    },
+    {
+      "id": "7",
+      "title": "Ordinary fries",
+      "price": 4.99,
+      "description": "Crispy classical fries.",
+      "category": "sides",
+      "image": "/src/assets/images/fries-1.png"
+    },
+    {
+      "id": "8",
+      "title": "Truffle dressing",
+      "price": 4.99,
+      "description": "Truffle dressing.",
+      "category": "dressing",
+      "image": "/src/assets/images/dressing 1.png"
+    },
+    {
+      "id": "9",
+      "title": "Chili Mayo",
+      "price": 4.99,
+      "description": "Chili Mayo.",
+      "category": "dressing",
+      "image": "/src/assets/images/dressing 2.png"
+    },
+    {
+      "id": "10",
+      "title": "Early bird soda",
+      "price": 4.99,
+      "description": "Fresh lemon soda.",
+      "category": "drinks",
+      "image": "/src/assets/images/soda-1.png"
+    },
+    {
+      "id": "11",
+      "title": "Olipop Soda",
+      "price": 4.99,
+      "description": "Fresh strawberry soda.",
+      "category": "drinks",
+      "image": "/src/assets/images/soda-2.png"
+    },
+    {
+      "id": "12",
+      "title": "Calpis Water",
+      "price": 4.99,
+      "description": "Sparkling water.",
+      "category": "drinks",
+      "image": "/src/assets/images/soda-3.png"
+    },
+    {
+      "id": "13",
+      "title": "Milshake",
+      "price": 4.99,
+      "description": "Creamy chocolate milkshake.",
+      "category": "drinks",
+      "image": "/src/assets/images/milkshake-1.png"
+    },
+    {
+      "id": "14",
+      "title": "Sunday with sprinkles",
+      "price": 4.99,
+      "description": "Chili Mayo.",
+      "category": "dessert",
+      "image": "/src/assets/images/dessert 1.png"
+    },
+    {
+      "id": "15",
+      "title": "Sunday with sprinkles and caramelsauce",
+      "price": 4.99,
+      "description": "Sunday with sprinkles and caramelsauce",
+      "category": "dessert",
+      "image": "/src/assets/images/dessert 2.png"
+    }
+  ]
+}
