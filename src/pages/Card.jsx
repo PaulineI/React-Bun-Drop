@@ -110,7 +110,7 @@ function Card() {
             />
           </div>
           <button className="submitBtn" onSubmit={handleSubmit} type="submit">
-            Genomför betalning
+            Place Order
           </button>
         </form>
       </div>
